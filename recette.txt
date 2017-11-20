@@ -4,5 +4,6 @@ huile
 sel
 poivre
 vinaigre
+citron
 croutons
 chevre
